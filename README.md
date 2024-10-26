@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Akash Karmokar!
 
 I'm a passionate backend developer who loves working with serverless architectures, Docker, and GraphQL! Welcome to my GitHub profile! Here you'll find some of my latest projects, primarily focused on building efficient and scalable backend services.
 
