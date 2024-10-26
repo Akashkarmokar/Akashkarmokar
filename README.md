@@ -10,7 +10,7 @@ I'm a passionate backend developer who loves working with serverless architectur
 - 🌱 I’m constantly learning **GraphQL**, **Docker**, and **Serverless Framework** to enhance backend scalability and efficiency.
 - 👯 I’m looking to collaborate on projects that involve **API development** and **cloud solutions**.
 - 💬 Ask me about **Node.js**, **GraphQL**, **AWS Lambda**, **Docker**, or anything about backend development.
-- 📫 How to reach me: [Your Email] | [Your LinkedIn Profile]
+- 📫 How to reach me: [Your Email] | [[Your LinkedIn Profile](https://www.linkedin.com/in/akashcsemu/)]
 
 ---
 
