@@ -19,7 +19,7 @@ I'm a passionate backend developer who loves working on Backend Technologies! We
 - **Languages:** JavaScript, Node.js, Python.
 - **Backend:** Express.js, FastAPI, Apollo GraphQL, Serverless Framework.
 - **Databases:** PostgreSQL, MongoDB.
-- **DevOps:** Docker, Docker Compose, AWS Lambda, LocalStack
+- **DevOps:** Docker, Docker Compose, AWS, LocalStack
 
 ---
 
